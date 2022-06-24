@@ -1,7 +1,7 @@
 {
   "name": "riafyvideo-react",
   "version": "1.0.0",
-  "description": "machine test",
+  "description": "",
   "main": "index.js",
   "engines": {
     "node": "16.13.0"
